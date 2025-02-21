@@ -1,5 +1,10 @@
 """
 Lumache - Python library for cooks and food lovers.
+
+Author: Adrian Kozlowski
+
+This library provides a collection of functions to help you manage and 
+randomly select ingredients for your culinary creations.
 """
 
 __version__ = "0.1.0"
@@ -14,7 +19,11 @@ def get_random_ingredients(kind=None):
     """
     Return a list of random ingredients as strings.
 
-    :param kind: Optional "kind" of ingredients.
+    This function can return a predefined list of ingredients. If a specific 
+    kind of ingredients is requested, it will validate the kind and return 
+    the corresponding ingredients.
+
+    :param kind: Optional "kind" of ingredients. If None, returns a default list.
     :type kind: list[str] or None
     :raise lumache.InvalidKindError: If the kind is invalid.
     :return: The ingredients list.
