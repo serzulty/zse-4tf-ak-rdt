@@ -11,7 +11,7 @@ Nagłówek 4
 
 .. note::
 
-  hoisadoasdbfafdadsad
+  note
 
 .. code-block:: yaml
    :caption: .readthedocs.yaml
