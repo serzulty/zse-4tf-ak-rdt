@@ -17,6 +17,8 @@ Nagłówek 4
 
        print("Hello, World!")
 
+Odnosnik: `<https://github.com>`.
+
 .. note::
    Notatka
 
@@ -24,7 +26,6 @@ Nagłówek 4
 .. tip::
    Wskazowka
 
-Odnosnik: `<https://github.com>`.
 
 #. jeden
 #. dwa
