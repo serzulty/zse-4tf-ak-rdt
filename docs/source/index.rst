@@ -23,6 +23,8 @@ Nagłówek 4
 
 Odnosnik: `<https://github.com>`.
 
+1. Lista numerowana
+
 #. jeden
 #. dwa
 #. trzy
