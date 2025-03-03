@@ -19,7 +19,8 @@ Nagłówek 4
 .. code-block:: python
    def hello_world():
        print("Hello, World!")
--------------------
+
+
 Odnosnik: `<https://github.com>`.
 
 #. jeden
