@@ -43,33 +43,17 @@ Definicje
 .. image:: https://media.licdn.com/dms/image/v2/D4E2CAQG-KxOGy8e-HQ/comment-image-shrink_8192_480/comment-image-shrink_8192_480/0/1683631513778?e=2147483647&v=beta&t=Er74lYXdtoVK-XSoivaeXkHPrtDjB85DwASZeHBYqts
    :width: 600
 
-
-.. table:: Tabela
-   :widths: 10 20 30
-
-+----+-----------+--------------------------+
-| ID | Nazwa     | Opis                     |
-+----+-----------+--------------------------+
-| 1  | Nazwa     | Opis                     |
-+----+-----------+--------------------------+
-| 2  | Nazwa     | Opis                     |
-+----+-----------+--------------------------+
-| 3  | Nazwa     | Opis                     |
-+----+-----------+--------------------------+
-
 .. list-table:: Title
    :widths: 25 25 50
    :header-rows: 1
 
    * - Heading row 1, column 1
      - Heading row 1, column 2
-     - Heading row 1, column 3
    * - Row 1, column 1
      -
      - Row 1, column 3
    * - Row 2, column 1
      - Row 2, column 2
-     - Row 2, column 3
 
 
 .. toctree::
