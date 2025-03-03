@@ -10,11 +10,11 @@ Nagłówek 4
   akapit
 
 .. note::
-   Note
+   Notatka
 
 
 .. tip::
-   Tip
+   Wskazowka
 
 .. code-block:: python
    def hello_world():
@@ -26,6 +26,12 @@ Odnosnik: `<https://github.com>`.
 #. jeden
 #. dwa
 #. trzy
+
+- Lista wypunktowana
+
+  - Element A
+
+  - Element B
 
 .. image:: https://media.licdn.com/dms/image/v2/D4E22AQH4FuaGuOcYGg/feedshare-shrink_2048_1536/B4EZUYPTHYGYAs-/0/1739868419888?e=2147483647&v=beta&t=2kvaswfICO1rC_ajnqrj3A0JLbYkyIKwc7WCEr23Tbc
    :width: 600
