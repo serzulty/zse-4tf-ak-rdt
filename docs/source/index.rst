@@ -9,17 +9,17 @@ Nagłówek 4
 
   akapit
 
+
+.. code-block:: python
+   def hello_world():
+       print("Hello, World!")
+
 .. note::
    Notatka
 
 
 .. tip::
    Wskazowka
-
-.. code-block:: python
-   def hello_world():
-       print("Hello, World!")
-
 
 Odnosnik: `<https://github.com>`.
 
