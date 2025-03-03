@@ -10,14 +10,17 @@ Nagłówek 4
   akapit
 
 .. note::
+   Note
 
-  note
 
-.. code-block:: yaml
-   :caption: .readthedocs.yaml
-   :emphasize-lines: 4-6
+.. tip::
+   Tip
 
-`register for a free account <https://github.com/signup>`
+.. code-block:: python
+   def hello_world():
+       print("Hello, World!")
+-------------------
+Odnosnik: `<https://github.com>`.
 
 #. jeden
 #. dwa
