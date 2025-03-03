@@ -37,6 +37,10 @@ Odnosnik: `<https://github.com>`.
 
   - Element B
 
+Definicje
+
+---------
+
 .. image:: https://media.licdn.com/dms/image/v2/D4E2CAQG-KxOGy8e-HQ/comment-image-shrink_8192_480/comment-image-shrink_8192_480/0/1683631513778?e=2147483647&v=beta&t=Er74lYXdtoVK-XSoivaeXkHPrtDjB85DwASZeHBYqts
    :width: 600
 
