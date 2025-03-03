@@ -23,8 +23,6 @@ Nagłówek 4
 
 Odnosnik: `<https://github.com>`.
 
-1. Lista numerowana
-
 #. jeden
 #. dwa
 #. trzy
@@ -35,7 +33,7 @@ Odnosnik: `<https://github.com>`.
 
   - Element B
 
-.. image:: https://media.licdn.com/dms/image/v2/D4E22AQH4FuaGuOcYGg/feedshare-shrink_2048_1536/B4EZUYPTHYGYAs-/0/1739868419888?e=2147483647&v=beta&t=2kvaswfICO1rC_ajnqrj3A0JLbYkyIKwc7WCEr23Tbc
+.. image:: https://media.licdn.com/dms/image/v2/D4E2CAQG-KxOGy8e-HQ/comment-image-shrink_8192_480/comment-image-shrink_8192_480/0/1683631513778?e=2147483647&v=beta&t=Er74lYXdtoVK-XSoivaeXkHPrtDjB85DwASZeHBYqts
    :width: 600
 
 .. toctree::
